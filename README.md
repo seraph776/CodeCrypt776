@@ -16,9 +16,9 @@
 
 
  
-### 💫 Code Portfolio 
+### 💫 Seraph's Code Portfolio 
  
-<img src="https://user-images.githubusercontent.com/72005563/155894120-9b35f7f6-bc88-4dfa-840f-9726f9aa4dfb.png" width="200" /> 
+<img src="https://user-images.githubusercontent.com/72005563/156072951-d44072ac-2220-4cf0-be2d-7387a5fa9c6b.png" width="250" /> 
  
  
 [Report Bug](https://github.com/seraph776/README-Template/issues)  · [Contact me](https://github.com/seraph776/CodeCrypt776#contact)  
