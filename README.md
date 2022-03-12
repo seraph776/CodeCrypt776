@@ -8,6 +8,13 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/seraph776/codecrypt776?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/seraph776/codecrypt776?style=for-the-badge)
 
+ ![Made-with-Python](https://img.shields.io/badge/-blue?&labelColor=grey&label=Python&logo=python&logoColor=white&style=for-the-badge)
+![Made-with-CPP](https://img.shields.io/badge/-blue?&labelColor=grey&label=CPP&logo=cplusplus&logoColor=white&style=for-the-badge)
+![Made-with-JavaScript](https://img.shields.io/badge/-blue?&labelColor=grey&label=JavaScript&logo=javascript&logoColor=white&style=for-the-badge)
+![Made-with-HTML](https://img.shields.io/badge/-blue?&labelColor=grey&label=HTML&logo=html5&logoColor=white&style=for-the-badge)
+![Made-with-CSS](https://img.shields.io/badge/-blue?&labelColor=grey&label=CSS&logo=css3&logoColor=white&style=for-the-badge)
+
+
  
 ### 💫 Code Portfolio 
  
@@ -17,7 +24,11 @@
 [Report Bug](https://github.com/seraph776/README-Template/issues)  · [Contact me](https://github.com/seraph776/CodeCrypt776#contact)  
  
 Show your support and give this repo a ⭐ 
+ 
+ 
+ 
 </div>
+
 
 
 ## ℹ️ Overview
@@ -25,16 +36,16 @@ Show your support and give this repo a ⭐
 This repository is a portfolio of my personal coding projects. Project listing and All notable changes to this project will be documented in [Change Log](https://github.com/seraph776/CodeCrypt776/blob/main/CHANGELOG.md).
 
 
-## 🛠️ Built with
 
 
-![Made-with-Python](https://img.shields.io/badge/-blue?&labelColor=grey&label=Python&logo=python&logoColor=white&style=for-the-badge)
-![Made-with-CPP](https://img.shields.io/badge/-blue?&labelColor=grey&label=CPP&logo=cplusplus&logoColor=white&style=for-the-badge)
-![Made-with-JavaScript](https://img.shields.io/badge/-blue?&labelColor=grey&label=JavaScript&logo=javascript&logoColor=white&style=for-the-badge)
-![Made-with-HTML](https://img.shields.io/badge/-blue?&labelColor=grey&label=HTML&logo=html5&logoColor=white&style=for-the-badge)
-![Made-with-CSS](https://img.shields.io/badge/-blue?&labelColor=grey&label=CSS&logo=css3&logoColor=white&style=for-the-badge)
-
-
+## ⬇️ Project Content
+<details>
+ <summary> ⚡click to view  </summary>
+ 
+- <strong>Python</strong>   
+  - Binary Search Algorithm                       
+ 
+</details>
 
 
 ## License
