@@ -33,8 +33,7 @@ Show your support and give this repo a ⭐
 
 ## ℹ️ Overview
 
-This repository is a portfolio of my personal coding projects. Project listing and All notable changes to this project will be documented in [Change Log](https://github.com/seraph776/CodeCrypt776/blob/main/CHANGELOG.md).
-
+This repository is a portfolio of my personal coding projects. 
 
 
 
