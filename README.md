@@ -4,15 +4,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/seraph776?style=for-the-badge)](https://github.com/seraph776)
 ![GitHub Repo stars](https://img.shields.io/github/stars/seraph776/CodeCrypt776?style=for-the-badge&label=Repo%20Stars)
-![GitHub repo size](https://img.shields.io/github/repo-size/seraph776/codecrypt776?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/seraph776/codecrypt776?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/seraph776/codecrypt776?style=for-the-badge)
-
- ![Made-with-Python](https://img.shields.io/badge/-blue?&labelColor=grey&label=Python&logo=python&logoColor=white&style=for-the-badge)
-![Made-with-CPP](https://img.shields.io/badge/-blue?&labelColor=grey&label=CPP&logo=cplusplus&logoColor=white&style=for-the-badge)
-![Made-with-JavaScript](https://img.shields.io/badge/-blue?&labelColor=grey&label=JavaScript&logo=javascript&logoColor=white&style=for-the-badge)
-![Made-with-HTML](https://img.shields.io/badge/-blue?&labelColor=grey&label=HTML&logo=html5&logoColor=white&style=for-the-badge)
-![Made-with-CSS](https://img.shields.io/badge/-blue?&labelColor=grey&label=CSS&logo=css3&logoColor=white&style=for-the-badge)
 
 
  
@@ -26,6 +19,12 @@
 Show your support and give this repo a ⭐ 
  
  
+ ![Made-with-Python](https://img.shields.io/badge/-blue?&labelColor=grey&label=Python&logo=python&logoColor=white&style=for-the-badge)
+![Made-with-CPP](https://img.shields.io/badge/-blue?&labelColor=grey&label=CPP&logo=cplusplus&logoColor=white&style=for-the-badge)
+![Made-with-JavaScript](https://img.shields.io/badge/-blue?&labelColor=grey&label=JavaScript&logo=javascript&logoColor=white&style=for-the-badge)
+![Made-with-HTML](https://img.shields.io/badge/-blue?&labelColor=grey&label=HTML&logo=html5&logoColor=white&style=for-the-badge)
+![Made-with-CSS](https://img.shields.io/badge/-blue?&labelColor=grey&label=CSS&logo=css3&logoColor=white&style=for-the-badge)
+
  
 </div>
 
