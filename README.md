@@ -38,7 +38,7 @@ This repository is a portfolio of my personal coding projects. Project listing a
 
 
 
-## ⬇️ Project Content
+## 🔗 Project Content
 <details>
  <summary> ⚡click to view  </summary>
  
