@@ -11,6 +11,8 @@
  
 ### 💫 Seraph's Code Portfolio 
  
+ established 3.1.2022
+ 
 <img src="https://user-images.githubusercontent.com/72005563/156072951-d44072ac-2220-4cf0-be2d-7387a5fa9c6b.png" width="250" /> 
  
  
