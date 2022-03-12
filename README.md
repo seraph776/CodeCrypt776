@@ -32,7 +32,7 @@ Show your support and give this repo a ⭐
 
 
 
-## ℹ️ Overview
+## 💡 Overview
 
 This repository is a portfolio of my personal coding projects utilizing different programming languages.
 
