@@ -9,7 +9,7 @@
 
 
  
-### 💫 Seraph's Code Portfolio 
+### 💫 Cool Code Snippets 
  
  established 3.1.2022
  
