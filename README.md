@@ -34,18 +34,7 @@ Show your support and give this repo a ⭐
 
 ## 💡 Overview
 
-This repository is a portfolio of my personal coding projects utilizing different programming languages.
-
-
-
-## 🔗 Project Content
-<details>
- <summary> ⚡click to view  </summary>
- 
-- <strong>Python</strong>   
-  - Binary Search Algorithm                       
- 
-</details>
+This repository is a cache of cool code snippets.
 
 
 ## License
@@ -55,7 +44,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Contact
 
-Seraph : seraph1001100@gmail.com
+Seraph : seraph776@gmail.com
 
 ## Acknowledgements
 - [Shields IO](https://shields.io/)
