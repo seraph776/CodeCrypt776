@@ -34,7 +34,7 @@ Show your support and give this repo a ⭐
 
 ## 💡 Overview
 
-This repository is a cache of cool code snippets.
+This repository is a cache of cool code snippets and small projects in Python, CPP, JavaScript, and HTML/CSS.
 
 
 ## License
