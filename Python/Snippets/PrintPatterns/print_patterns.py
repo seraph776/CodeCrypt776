@@ -1,3 +1,18 @@
+"""
+c
+ o
+  d
+   e
+    w
+     a
+      r
+       s
+
+```
+
+"""
+
+
 def print_pattern(word):
     for row in range(0, len(word)):
         st = ""
