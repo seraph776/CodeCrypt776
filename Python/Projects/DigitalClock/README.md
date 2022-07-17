@@ -1,9 +1,6 @@
 
 
 # Digital Clock
-
-![made-with-Python](https://img.shields.io/badge/Python-800020?&logo=python&logoColor=white&labelColor=black&label=Built%20with&style=for-the-badge)
-
 ---
 ## ℹ️ Background Info 
 
